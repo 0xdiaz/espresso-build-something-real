@@ -1,7 +1,7 @@
 {
     "parent-chain": {
         "connection": {
-            "url": "WEBSOCKER_RPC_URL"
+            "url": "WEBSOCKET_ARBITRUM_SEPOLIA_RPC_URL"
         }
     },
     "chain": {
